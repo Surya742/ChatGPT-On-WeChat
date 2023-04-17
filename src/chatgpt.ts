@@ -25,7 +25,7 @@ enum MessageType {
 
 export class ChatGPTBot {
   // chatbot name (WeChat account name)
-  botName: string = "";
+  botName: string = "ABC";
 
   // self-chat may cause some issue for some WeChat Account
   // please set to true if self-chat cause some errors
